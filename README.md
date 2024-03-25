@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F08080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nathália;I'm+from+Brazil;Be+Welcome<3)](https://git.io/typing-svg)
 
+ <img align= "center" alt="gif" height="400" width="800" src="/assets/peach&kurby.gif"/>
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathaliabrazk&show_icons=true&count_private=true&hide_border=true&title_color=F08080&icon_color=F08080&text_color=c9d1d9&bg_color=800000" alt="Nathalia Braz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliabrazk&layout=compact&hide_border=true&title_color=F08080&text_color=F08080&bg_color=800000" />
