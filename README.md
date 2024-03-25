@@ -22,7 +22,7 @@
 
 <img align="center" alt="may-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-<img align="center" alt="may-HTML" height="45" width="45" src="url('data:image/svg+xml,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png%3F20210705212817')">
+<img align="center" alt="may-HTML" height="45" width="45" src="/assets/CSS3_logo.svg.png">
 
 ### Studying in this moment:
    <div style="display: inline_block"><br>
